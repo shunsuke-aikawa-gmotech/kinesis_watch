@@ -1,4 +1,4 @@
-# KInesisWatch
+# KinesisWatch
 
 ## Installation
 
