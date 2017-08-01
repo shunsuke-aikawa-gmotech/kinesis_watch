@@ -1,4 +1,4 @@
-# Cloudwatch Log getter
+# KInesisWatch
 
 ## Installation
 
@@ -17,6 +17,6 @@ pip install boto3
 
 ```
 
-python getter.py [stream name] [start date] [shard id]
+python kinesis_get.py [stream name] [start date] [shard id]
 
 ```
